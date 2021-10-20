@@ -1,2 +1,1 @@
-date && who && ls 
-
+date && who && ls > resulte1.txt

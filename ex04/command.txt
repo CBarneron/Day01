@@ -1,4 +1,4 @@
- admin$ touch -t 207701010000 test0 test1 test2 test3 test4 test5
+touch -t 012077010000 test0 test1 test2 test3 test4 test5
 chmod 775 test0
 chmod 775 test3
 chmod 744 test1
